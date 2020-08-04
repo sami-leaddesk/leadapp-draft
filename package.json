@@ -1,0 +1,17 @@
+{
+  "name": "leadapp-draft",
+  "version": "0.0.1",
+  "description": "LeadApp integration library (prototype version)",
+  "main": "index.js",
+  "dependencies": {
+    "zoid": "9.0.46"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "leadapp"
+  ],
+  "author": "development@leaddesk.com",
+  "license": "ISC"
+}
